@@ -17,7 +17,7 @@ I'm learning cybersecurity from the ground up — starting with the fundamentals
 - **CompTIA A+** (Core 1 & Core 2) — hardware, operating systems, troubleshooting
 - **CompTIA Network+** — TCP/IP, subnetting, the OSI model, network devices
 - **CompTIA Security+** — up next after Network+
-- **Python** — automating tasks and building small security tools
+- **Python** — Learning programming basics
 
 ## 🛠️ Tools & Tech
 
